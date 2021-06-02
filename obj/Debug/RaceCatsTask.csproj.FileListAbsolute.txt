@@ -1,0 +1,11 @@
+C:\Users\ahmad\source\repos\RaceCatsTask\bin\Debug\RaceCatsTask.exe.config
+C:\Users\ahmad\source\repos\RaceCatsTask\bin\Debug\RaceCatsTask.exe
+C:\Users\ahmad\source\repos\RaceCatsTask\bin\Debug\RaceCatsTask.pdb
+C:\Users\ahmad\source\repos\RaceCatsTask\obj\Debug\RaceCatsTask.csprojAssemblyReference.cache
+C:\Users\ahmad\source\repos\RaceCatsTask\obj\Debug\RaceCatsTask.CatControl.resources
+C:\Users\ahmad\source\repos\RaceCatsTask\obj\Debug\RaceCatsTask.Form1.resources
+C:\Users\ahmad\source\repos\RaceCatsTask\obj\Debug\RaceCatsTask.Properties.Resources.resources
+C:\Users\ahmad\source\repos\RaceCatsTask\obj\Debug\RaceCatsTask.csproj.GenerateResource.cache
+C:\Users\ahmad\source\repos\RaceCatsTask\obj\Debug\RaceCatsTask.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\RaceCatsTask\obj\Debug\RaceCatsTask.exe
+C:\Users\ahmad\source\repos\RaceCatsTask\obj\Debug\RaceCatsTask.pdb
